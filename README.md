@@ -7,7 +7,7 @@ A simple and elegant personal portfolio website showcasing my work and skills.
 ## 🖥️ Live Website
 
 🔗 [Visit My Portfolio]
-https://portfolio-9wwcm20d3-kshitij-kumars-projects-5838b78c.vercel.app/
+https://portfolio-beta-ten-55.vercel.app/
 
 ---
 
